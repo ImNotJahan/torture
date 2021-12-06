@@ -1,0 +1,13 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+license="MIT License"
+
+[[mods]] #mandatory
+modId="torture" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Tis' Time for Torture" #mandatory
+authors="ImNotJahan" #optional
+description='''
+A mod based off of the manga "It's Time for "Interrogation," Princess!"
+'''

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "torture:cup_noodles"
+		}
+	],
+	"result":
+	{
+		"item": "torture:cup_noodles"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "minecraft:wheat"
+		},
+		{
+			"item": "minecraft:paper"
+		}
+	],
+	"result":
+	{
+		"item": "torture:cup_noodles"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "torture:takoyaki"
+		},
+		{
+			"item": "torture:cheese"
+		}
+	],
+	"result":
+	{
+		"item": "torture:takoyaki_cheese_flavored"
+	}
+}

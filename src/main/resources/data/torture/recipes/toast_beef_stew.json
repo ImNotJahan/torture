@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "torture:toast"
+		},
+		{
+			"item": "torture:beef_stew"
+		}
+	],
+	"result":
+	{
+		"item": "torture:toast_beef_stew"
+	}
+}

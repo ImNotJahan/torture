@@ -21,6 +21,5 @@ public class Horns extends ArmorItem
     public <A extends BipedModel<?>> A getArmorModel(LivingEntity entityLiving, ItemStack itemStack, EquipmentSlotType armorSlot, A _default)
     {
         return (A) new CrownModel();
-        //.return super.getArmorModel(entityLiving, itemStack, armorSlot, _default);
     }
 }

@@ -31,6 +31,18 @@
 	"item.torture.octopus": "Octopus",
 	"item.torture.tako": "Tako",
 	"item.torture.oil": "Oil",
+	"item.torture.rice_egg": "Eggy Rice",
+	"item.torture.rice_egg_sauced": "Sauced Eggy Rice",
+	"item.torture.soy_sauce": "Soy Sauce",
+	"item.torture.sesame_oil": "Sesame Oil",
+	"item.torture.german_pizza": "German Pizza",
+	"item.torture.german_pizza_slice": "Slice of German Pizza",
+	"item.torture.pizza_cutter": "Pizza Cutter",
+	"item.torture.katsudon": "Katsudon",
+	"item.torture.pork_cutlet": "Pork Cutlet",
+	"item.torture.cream_stew": "Cream Stew",
+	"item.torture.oyster": "Oyster",
+	"item.torture.crown": "Crown",
 	"item.torture.xiaolongbao_flavored": "Xiaolongbao Flavored",
 	"itemGroup.torture": "Tis' Time for Torture"
 }
